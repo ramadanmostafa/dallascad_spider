@@ -1,0 +1,36 @@
+http://www.dallascad.org/SearchOwner.aspx
+
+STONE FRANCES
+ROBERSON WILLIAM
+OD
+
+There are a few tables on the page once you scroll down that are missing
+Main Improvement (Current 2017)
+Building Class	14 Construction Type	FRAME # Baths (Full/Half)	2/ 0 
+Year Built	1979 Foundation	SLAB # Kitchens	1 
+Effective Year Built	1979 Roof Type	HIP # Bedrooms	3 
+Actual Age	38 years	Roof Material	COMP SHINGLES # Wet Bars	0 
+Desirability	GOOD Fence Type	CHAIN # Fireplaces	1 
+Living Area	1,671 sqft Ext. Wall Material	BRICK VENEER Sprinkler (Y/N)	N 
+Total Area	1,671 sqft Basement	NONE Deck (Y/N)	N 
+% Complete	100% Heating	CENTRAL FULL Spa (Y/N)	N 
+# Stories	ONE STORY Air Condition	CENTRAL FULL Pool (Y/N)	N 
+Depreciation	35% Sauna (Y/N)	N 
+Additional Improvements (Current 2017)
+#	Improvement Type	Construction	Floor	Exterior Wall	Area (sqft)
+1	ATTACHED GARAGE	BK-BRICK	CONCRETE	UNASSIGNED	480
+Land (2016 Certified Values)
+#	State Code	Zoning	Frontage (ft)	Depth (ft)	Area	Pricing Method	Unit Price	Market Adjustment	Adjusted Price	Ag Land
+1	SINGLE FAMILY RESIDENCES	PLANNED DEVELOPMENT	67	118	0.0000 SQUARE FEET	FLAT PRICE	$24,000.00	0%	$24,000	N
+* All Exemption information reflects 2016 Certified Values. *
+
+Exemptions (2016 Certified Values)
+City	School	County and School Equalization	College	Hospital	Special District
+Taxing Jurisdiction	GRAND PRAIRIE	GRAND PRAIRIE ISD	DALLAS COUNTY	DALLAS CO COMMUNITY COLLEGE	PARKLAND HOSPITAL	UNASSIGNED
+HOMESTEAD EXEMPTION	$5,000	$25,000	$23,969	$23,969	$23,969	$0
+Taxable Value	$114,845	$94,845	$95,876	$95,876	$95,876	$0
+
+We'd want these fields captured as well
+
+{City	School	County and School Equalization	College	Hospital	Special District
+GRAND PRAIRIE	GRAND PRAIRIE ISD	DALLAS COUNTY	DALLAS CO COMMUNITY COLLEGE	PARKLAND HOSPITAL	UNASSIGNED
